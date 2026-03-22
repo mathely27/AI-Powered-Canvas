@@ -1,11 +1,26 @@
-# AI Powered Canvas
+# 🎨 AI Powered Canvas
 
-## Description
-An interactive drawing application built using Python. The project runs locally and is executed through terminal commands.
+✨ An interactive drawing application built using Python that allows users to create digital sketches in a simple and intuitive way.
 
-## How to Run
-1. Open terminal
-2. Navigate to project folder:
+---
+
+## 🚀 Features
+- 🖌️ Real-time drawing experience  
+- 🎯 Smooth and interactive canvas  
+- ⚡ Lightweight and fast execution  
+- 🧠 Built with a focus on simplicity and functionality  
+
+---
+
+## 🛠️ Tech Stack
+- 🐍 Python  
+- 💻 Command Line Interface (CLI)  
+
+---
+
+## ▶️ How to Run
+
+1. Open terminal  
+2. Navigate to the project folder:
+   ```bash
    cd C:\MagicCanvas
-3. Run the app:
-   python app.py
